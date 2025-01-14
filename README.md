@@ -7,11 +7,19 @@ This repo includes codes of the paper [An accelerated distributed stochastic gra
 
 Please run `LogisticRegression/comp_lca.py` to obtain the results and run `LogisticRegression/read_plt_whole.py` to obtain the following figures:
 
-![SCVX, ring 50](LogisticRegression/res/cifar10/figs/ring50_10constant_False_shaded_std.pdf)
+
+![SCVX, ring 50](https://github.com/Kun73/DSMT/blob/main/LogisticRegression/res/cifar10/figs/ring50_10constant_False_shaded_std.pdf)
+
+![SCVX, ring 100](https://github.com/Kun73/DSMT/blob/main/LogisticRegression/res/cifar10/figs/ring100_10constant_False_shaded_std.pdf)
 
 # NCVX
 
-Please run `NoncvxLogisticRegression/comp_lca.py`
+Please run `NoncvxLogisticRegression/comp_lca.py` to obtain the results and run `NoncvxLogisticRegression/read_plt_whole.py` to obtain the following figures:
+
+![NCVX, ring 50](https://github.com/Kun73/DSMT/blob/main/NoncvxLogisticRegression/res/cifar10/figs/ring50_10constant_False_shaded_std.pdf)
+
+![NCVX, ring 100](https://github.com/Kun73/DSMT/blob/main/NoncvxLogisticRegression/res/cifar10/figs/ring100_10constant_False_shaded_std.pdf)
+
 
 # Note 
 
