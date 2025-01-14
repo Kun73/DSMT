@@ -1,6 +1,6 @@
 # DSMT
 
-This repo includes codes of the paper `An accelerated distributed stochastic gradient method with momentum`. We use some code from: https://github.com/qureshi-mi/S-ADDOPT.
+This repo includes codes of the paper [An accelerated distributed stochastic gradient method with momentum](https://arxiv.org/abs/2402.09714). We use some code from: https://github.com/qureshi-mi/S-ADDOPT.
 
 
 # SCVX
